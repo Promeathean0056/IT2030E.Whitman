@@ -1,0 +1,36 @@
+﻿header {
+    border: 10px solid blue;
+    padding: 40px;
+    margin: 20px;
+    background-color: lightblue;
+    text-align: center;
+    width: 90%;
+}
+footer {
+    border: 10px solid green;
+    padding: 40px;
+    margin: 20px;
+    background-color: aquamarine;
+    text-align: center;
+    width: 90%;
+    bottom: 0;
+    position: fixed;
+}
+nav {
+    border: 10px solid orange;
+    padding: 40px;
+    margin: 20px;
+    background-color: goldenrod;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+content {
+    border: 10px solid grey;
+    padding: 40px;
+    margin: 20px;
+    background-color: lightslategrey;
+    width: 60%;
+    float: right;
+    text-align: center;
+}
