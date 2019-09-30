@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+@model Enrollment
+@Html.CheckBoxFor(m => m.IsActive)
+@Html.TextBoxFor(m => m.AssignedCampus)
+@Html.RadioButtonFor(m => m.EnrollmentSemester)
+@Html.TextBoxFor(m => m.EnrollmentYear)
