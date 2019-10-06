@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+
+}
+
+<h2>Create</h2>
+@model Enrollment
+@Html.CheckBoxFor(m => m.IsActive)
+@Html.TextBoxFor(m => m.AssignedCampus)
+@Html.RadioButtonFor(m => m.EnrollmentSemester)
+@Html.TextBoxFor(m => m.EnrollmentYear)

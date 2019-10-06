@@ -1,0 +1,2 @@
+C:\Users\shoet\source\repos\Lab 5\enrollmentApplication\obj\Debug\enrollmentApplication.csprojAssemblyReference.cache
+C:\Users\shoet\source\repos\Lab 5\enrollmentApplication\obj\Debug\enrollmentApplication.csproj.CoreCompileInputs.cache
