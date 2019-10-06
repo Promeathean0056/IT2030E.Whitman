@@ -1,1 +1,1 @@
-both Programs are stored here.
+Contains just the MusicStore.
